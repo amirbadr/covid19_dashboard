@@ -13,5 +13,5 @@ This dashboard is well-suited for laptop and desktop views and not currently per
 
 All the maps and charts in this dashboard are interactive and you can hover over and zoom in and zoom out to different provinces and regions.
     
-June 5: Added US counties map
+June 5: Added US counties map <br>
 July 1: Added Trend maps
